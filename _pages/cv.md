@@ -16,12 +16,12 @@ Education
 
 Work experience
 ======
-* 电气那个
+* Electric
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Robotics center这个
+* Robotics center
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -34,7 +34,7 @@ Work experience
 
 Publications
 ======
-  <ul>{% Enhancement of torque density and power density of polymer-based ultrasonic motors via flexible usage of anisotropy in elastic property %}
+  <ul>{%  %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
