@@ -34,9 +34,9 @@ Work experience
 
 Publications
 ======
-  #<ul>{%  %}
-  #  {% include archive-single-cv.html %}
- # {% endfor %}</ul>
+<!--  <ul>{%  %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
   
 
 Skills
