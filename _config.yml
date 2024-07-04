@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Jinshuo Liu"
+name                     : &name "Jinshuo Liu (刘金硕)"
 description              : &description "personal description"
 url                      : https://vinc-liu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
