@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I study at Shandong University as a first-year postgraduate now.
-
-I am now working on piezoelectric actuators, ultrasonic motors, and high-power/miniature driving circuit. I am now pursuiting the 2025 summer research programm, learning more knowledge, and doing more practice.  I intend to apply for a Ph.D. program in the United States or Europe in the future.
+I am currently a first-year postgraduate student at Shandong University. My research interests locate piezoelectric actuation and its application to precise manipulation. Specifically, in the past, I have worked on ultrasonic motors, focusing on innovations in their mechanical structure and vibration modes to achieve high performance. At present, I am focusing on piezoelectric actuators, with an emphasis on the development of their mechanical structure, actuation strategies, and driving circuits.
 
 Previous Researches
 ======
