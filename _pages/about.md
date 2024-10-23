@@ -13,10 +13,11 @@ Specifically, I have worked on ultrasonic motors, focusing on designing mechanic
 
 Education
 ======
-- 2020-2024                **Shandong University**, China
+- 2020-2024                **Shandong University**, China\
                            Bachelor of Automation Engineering
-- 2024-Present             **Shandong University**, China
+- 2024-Present             **Shandong University**, China\
                            Master of Robotics
+  
 Publications
 ======
 A centipede 
