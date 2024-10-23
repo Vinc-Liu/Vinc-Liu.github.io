@@ -9,18 +9,17 @@ redirect_from:
 
 :smile: I am currently a first-year postgraduate student at Shandong University. My research interests locate in piezoelectric actuation and its application to precise manipulation. 
 
-Specifically, in the past, I have worked on ultrasonic motors, focusing on innovations in their mechanical structure and vibration modes to achieve high performance. At present, I am focusing on piezoelectric actuators, with an emphasis on the development of their mechanical structure, actuation strategies, and driving circuits.
+Specifically, I have worked on ultrasonic motors, focusing on designing mechanical structure and developing vibration modes to achieve high performance. At present, I am specializing in **piezoelectric actuators**, especially in structure configuration, actuation strategy, and driving circuits.
 
-Previous Researches
+Education
 ======
-1. Polymer-based ultrasonic actuator with high-order vibration mode
-2. Piezoelectric actuator driven by resonant-vibration-induced stick-slip motion
-3. Ultrasonic actuator driven by torsional-vibration-induced flexural traveling waves
-
-Current Researches
+- 2020-2024                **Shandong University**, China
+                           Bachelor of Automation Engineering
+- 2024-Present             **Shandong University**, China
+                           Master of Robotics
+Publications
 ======
-1. High-power miniature driving circuit for piezoelectric actuators
-2. Development of high-performance piezoelectric actuators/ultrasonic motors
+A centipede 
 
 Ongoing Plans
 ======
