@@ -10,12 +10,12 @@
 
 # Basic Site Settings
 locale: "zh-CN" # 声明语言
-title: "Vinc-Liu"
+title: "HomePage"
 title_separator: "-"
 description: &description "personal description" # 声明网站描述
 repository: "Vinc-Liu/Vinc-Liu.github.io"
 google_scholar_stats_use_cdn : true
-baseurl: "/" #声明网站的根
+baseurl: "" #声明网站的根，很玄学，别动
 url: "https://vinc-liu.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
