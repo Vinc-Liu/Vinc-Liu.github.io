@@ -6,7 +6,7 @@
 
 {% include base_path %}
 
-# 读取publications这个colloction里面的所有内容并按 archive-single的格式渲染出来
+<!-- 读取publications这个colloction里面的所有内容并按 archive-single的格式渲染出来 -->
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}

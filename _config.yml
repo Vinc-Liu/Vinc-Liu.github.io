@@ -9,7 +9,7 @@
 # 配置文件很重要
 
 # Basic Site Settings
-locale: "zh-CN" # 声明语言
+locale: "en-US" # 声明语言
 title: "HomePage"
 title_separator: "-"
 description: &description "personal description" # 声明网站描述
