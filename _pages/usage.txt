@@ -1,0 +1,7 @@
+这个文件夹存的是你所有主要的内容或称介绍性内容，剩下的什么posts，teaching，talks，publications，portfolio，drafts文件夹都是有特殊含义或者特殊功能的markdown文件使用的文件夹，暂时空置，如果有需要再找我
+
+不指定文件名访问这个文件夹会到about.md里的内容
+
+指定文件名就是所指定的内容
+
+includes 是存放 about.md里面包含的下属md文件

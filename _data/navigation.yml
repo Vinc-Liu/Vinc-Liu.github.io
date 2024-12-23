@@ -1,10 +1,17 @@
 # main links links
+
+# 定义导航栏有几项
+# 有两种写法
+# /cv/ 意为找到_pages文件夹下的cv.md文件
+# /#-cv 意为找到当前markdown下的cv标题
 main:
-  - title: "Research project"
-    url: /research project/
+  # - title: "Research project"
+  #   url: /research project/
     
   - title: "Publications"
-    url: /publications/ 
+    url: /#-publications
+    # 例如这句，/是指根目录，这里的根目录指代_pages这个文件夹，根目录没指定别的东西时默认指代about.md，这句的意思是在 about.md 里找# publications
   
   - title: "CV"
     url: /cv/
+    # 例如这句，/是指根目录，在根目录下找cv，
