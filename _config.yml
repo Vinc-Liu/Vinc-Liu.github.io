@@ -15,7 +15,7 @@ title_separator: "-"
 description: &description "personal description" # 声明网站描述
 repository: "Vinc-Liu/Vinc-Liu.github.io"
 google_scholar_stats_use_cdn : true
-baseurl: "" #声明网站的根，很玄学，别动
+baseurl: "" #声明网站的根
 url: "https://vinc-liu.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,7 +23,7 @@ url: "https://vinc-liu.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: # 声明作者信息
   name             : &name "Jinshuo Liu (刘金硕)"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Postgraduate"
   location         : "China"
   employer         :
