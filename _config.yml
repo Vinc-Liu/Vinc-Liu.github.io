@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jinshuo Liu (刘金硕)"
