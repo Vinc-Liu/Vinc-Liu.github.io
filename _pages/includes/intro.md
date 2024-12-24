@@ -11,14 +11,3 @@ Education
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;                     Master of Robotics
 - 2020-2024       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;         <b>Shandong University</b>, China \
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;                     Bachelor of Automation Engineering
-  
-Publications
-======
-A centipede 
-
-Ongoing Plans
-======
-1. Looking for a top summer research program in the United States, preferably focused on soft robotics. Piezo-related program is also acceptable.
-2. Do more researches, publish more papers, and be more competitive.
-3. IELTS for 7.0+
-4. Striving for a top phd program in the United States/Europe, preferably focused on soft robotics.
