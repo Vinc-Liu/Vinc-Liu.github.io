@@ -5,7 +5,7 @@ Specifically, I have worked on ultrasonic motors, focusing on designing mechanic
 
 Education
 ======
-- 2020-2024       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;        <center> **Shandong University**, China </center>\
+- 2020-2024       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;         **Shandong University**, China \
                           <center> Bachelor of Automation Engineering </center>
 - 2024-Present             **Shandong University**, China\
                            Master of Robotics
