@@ -12,6 +12,15 @@ main:
     url: /#-publications
     # 例如这句，/是指根目录，这里的根目录指代_pages这个文件夹，根目录没指定别的东西时默认指代about.md，这句的意思是在 about.md 里找# publications
   
+  - title: "News"
+    url: /#-news
+
+  - title: "Educations"
+    url: /#-Educations
+
+  - title: "Honors and awards"
+    url: /#-Honors-and-awards
+
   - title: "CV"
     url: /cv/
     # 例如这句，/是指根目录，在根目录下找cv，
@@ -23,3 +32,5 @@ main:
   - title: "Record"
     url: /record/
     # 例如这句，/是指根目录，在根目录下找record，
+
+
