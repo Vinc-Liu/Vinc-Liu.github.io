@@ -7,10 +7,10 @@ I am now more interested in soft robotics, which will be my topic of my Ph.D. ca
 
 Education
 ======
-- 2024-Present             <b>Shandong University</b>, China\
-                           Master of Robotics
+- 2024-Present   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;          <b>Shandong University</b>, China\
+       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;                     Master of Robotics
 - 2020-2024       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;         <b>Shandong University</b>, China \
-                          Bachelor of Automation Engineering
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;                     Bachelor of Automation Engineering
   
 Publications
 ======
