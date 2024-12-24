@@ -1,11 +1,13 @@
 
-:smile: I am currently a first-year postgraduate student at Shandong University. My research interests locate in piezoelectric actuation and its application to precise manipulation. 
+:smile: I am currently a first-year Master's student at Shandong University. My research interests locate in piezoelectric actuation and its application to precise manipulation, and soft robotics. 
 
-Specifically, I have worked on ultrasonic motors, focusing on designing mechanical structure and developing vibration modes to achieve high performance. At present, I am specializing in **piezoelectric actuators**, especially in structure configuration, actuation strategy, and driving circuits.
+Specifically, For the past three years, I have engaged in piezoelectric actuation, specifically with ultrasonic motors and piezoelectric actuators. I focus on developing driving circuits and control systems, as well as in designing mechanical structures for actuators. I have published four first-author papers in SCI journals (IEEE TIE, SNA, SMS, etc.).
+
+I am more interested in soft robotics, which will be my topic of my Ph.D. career. In summer 2025, I will join  
 
 Education
 ======
-- 2020-2024       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;         **Shandong University**, China \
+- 2020-2024       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;         <b>Shandong University</b>, China \
                           <center> Bachelor of Automation Engineering </center>
 - 2024-Present             **Shandong University**, China\
                            Master of Robotics
