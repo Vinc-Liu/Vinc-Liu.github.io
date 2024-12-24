@@ -11,6 +11,8 @@ main:
   - title: "Publications"
     url: /#-publications
     # 例如这句，/是指根目录，这里的根目录指代_pages这个文件夹，根目录没指定别的东西时默认指代about.md，这句的意思是在 about.md 里找# publications
+
+  # 注意url全小写，空格用短横线代替
   
   - title: "News"
     url: /#-news
