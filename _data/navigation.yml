@@ -16,10 +16,10 @@ main:
     url: /#-news
 
   - title: "Educations"
-    url: /#-Educations
+    url: /#-educations
 
-  - title: "Honors and awards"
-    url: /#-Honors and Awards
+  - title: "Honors and Awards"
+    url: /#-honors-and-awards
 
   - title: "CV"
     url: /cv/
