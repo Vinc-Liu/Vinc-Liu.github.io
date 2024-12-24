@@ -15,3 +15,11 @@ main:
   - title: "CV"
     url: /cv/
     # 例如这句，/是指根目录，在根目录下找cv，
+
+ - title: "Projects"
+    url: /project/
+    # 例如这句，/是指根目录，在根目录下找project，
+
+     - title: "Record"
+    url: /record/
+    # 例如这句，/是指根目录，在根目录下找record，
