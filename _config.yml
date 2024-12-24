@@ -16,7 +16,7 @@ description: &description "personal description" # 声明网站描述
 repository: "Vinc-Liu/Vinc-Liu.github.io"
 google_scholar_stats_use_cdn : true
 baseurl: "" #声明网站的根
-url: "https://vinc-liu.github.io/"
+url: "https://vinc-liu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
