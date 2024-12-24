@@ -1,4 +1,6 @@
 # 🎖 Honors and Awards
+
+- *2023.06*: 🎉 One paper is accepted by SNA
 <!--
 - *2024.6* Tencent Scholarship (Top 1%)
 - *2021.10* National Scholarship (Top 1%)
