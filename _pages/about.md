@@ -36,7 +36,6 @@ redirect_from:
 </div>
 
 <style>
-
 .paper-box {
     display: flex;
     justify-content: left;
@@ -45,9 +44,9 @@ redirect_from:
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-}
     
-.paper-box-image{
+
+    .paper-box-image{
         justify-content: center;
         display: flex;
         width: 100%;
@@ -57,26 +56,31 @@ redirect_from:
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
-}
+    }
     
-.paper-box-text{
-    max-width: 100%;
-    order: 1;
-}
-    
-@include breakpoint($medium) {
-    .paper-box-image{
-        justify-content: left;
-        min-width: 200px;
-        max-width: 40%;
+    .paper-box-text{
+        max-width: 100%;
         order: 1;
-}
+    }
     
-.paper-box-text{
-    justify-content: left;
-    padding-left: 2em;
-    max-width: 60%;
-    order: 2;
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
 }
 
 $scroll_offset : 2em;
