@@ -7,6 +7,12 @@
 main:
   # - title: "Research project"
   #   url: /research project/
+
+  - title: "News"
+    url: /#-news
+    
+  - title: "Educations"
+    url: /#-educations
     
   - title: "Publications"
     url: /#-publications
@@ -14,12 +20,6 @@ main:
 
   # 注意url全小写，空格用短横线代替
   
-  - title: "News"
-    url: /#-news
-
-  - title: "Educations"
-    url: /#-educations
-
   - title: "Honors and Awards"
     url: /#-honors-and-awards
 
