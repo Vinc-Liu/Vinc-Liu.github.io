@@ -6,3 +6,7 @@ author_profile: true
 redirect_from:
   - /record
 ---
+{% include base_path %}
+
+{% include record.html %}
+
