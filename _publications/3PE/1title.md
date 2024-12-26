@@ -1,3 +1,3 @@
 ---
-header: 'Power Electronics'
+header: '🔋 Power Electronics'
 ---
