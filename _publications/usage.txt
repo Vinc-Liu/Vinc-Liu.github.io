@@ -1,1 +1,14 @@
 专门用来存成果的文件夹
+
+---
+title: "Enhancement of torque density and power density of polymer-based ultrasonic motors via flexible usage of anisotropy in elastic property"
+collection: publications
+excerpt: ''
+date: 2023-6-20
+venue: 'Smart Materials and Structures'
+permalink: /publication/2023SMS
+# 论文的路径
+paperurl: 'http://academicpages.github.io/files/2023SMS.pdf'
+---
+
+<!-- 这里写摘要 -->

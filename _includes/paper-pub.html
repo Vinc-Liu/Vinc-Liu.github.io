@@ -1,0 +1,25 @@
+{% include base_path %}
+
+{% if post.header %}
+<header class="depart-header">{{ post.header }}</header>
+<hr/>
+{% else %}
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">{{ post.badge }}</div>
+            <img src='{{ post.image }}' alt="sym" width="100%">
+        </div>
+    </div>
+<div class='paper-box-text' markdown="1">
+
+[{{ post.title }}]({{ post.paperurl }}){:target="_blank"} \\
+**{{ post.author }}**, {{ post.authors }}
+
+- {{ post.d1 }}
+- {{ post.d2 }}
+- {{ post.d3 }}
+
+</div>
+</div>
+{% endif %}

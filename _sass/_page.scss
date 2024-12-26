@@ -17,18 +17,24 @@
 }
 
 .page {
+  // 在大屏幕上应用的样式
   @include breakpoint($large) {
+    // 设置页面宽度为12列中的10列，并且是最后一列
     @include span(10 of 12 last);
+    // 设置页面前缀为12列中的0.5列
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    // 设置页面后缀为12列中的1列
+    @include suffix(0 of 12);
   }
 
   .page__inner-wrap {
+    // 设置内部包裹元素的宽度为100%
     @include full();
 
     .page__content,
     .page__meta,
     .page__share {
+      // 设置内容、元数据和分享部分的宽度为100%
       @include full();
     }
   }

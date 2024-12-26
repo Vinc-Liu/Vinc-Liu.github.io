@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-% 这页直接加CV.pdf
+{% include cv.html %}
+
