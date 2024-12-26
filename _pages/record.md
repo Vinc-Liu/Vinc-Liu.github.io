@@ -8,5 +8,5 @@ redirect_from:
 ---
 {% include base_path %}
 
-{% include_relative includes/news.md %}
+{% include_relative includes/recordlife.md %}
 
