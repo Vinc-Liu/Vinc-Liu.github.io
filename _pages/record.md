@@ -8,5 +8,5 @@ redirect_from:
 ---
 {% include base_path %}
 
-{% include record.html %}
+{% include_relative includes/news.md %}
 
