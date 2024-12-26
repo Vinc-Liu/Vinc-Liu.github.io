@@ -1,5 +1,6 @@
 # 🎖 Honors and Awards
-
+- *2024.4* 🎉 Best undergraduate thesis award in Shandong University (Top 1%)
+- *2024.4* 🎉 Best undergraduate award in Shandong University (Top 10%)
 <!--
 - *2024.6* Tencent Scholarship (Top 1%)
 - *2021.10* National Scholarship (Top 1%)
