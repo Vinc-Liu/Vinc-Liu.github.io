@@ -23,7 +23,7 @@ url: "https://vinc-liu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: # 声明作者信息
   name             : &name "Jinshuo Liu (刘金硕)"
-  avatar           : "profile.png"
+  avatar           : "profile_pic.png"
   bio              : "Master's Student"
   location         : "China"
   employer         :
