@@ -4,19 +4,14 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    padding: 0.5em 0 1.5em 0;
-    
-    a {
-        font-size: 0.9em;
-    }
+    padding: 0.5em 0 0.8em 0;
 
-    p {
-        font-size: 0.8em;
-    }
-
-    li {
-        font-size: 0.9em;
-        margin-bottom: 0.8em;
+    .download {
+        a {
+            font-size: 0.8em;
+            display: inline-block;
+            padding-right: 1em;
+        }
     }
 
     .paper-box-image{
@@ -34,9 +29,33 @@
     .paper-box-text{
         max-width: 100%;
         order: 1;
+
+        p {
+            font-size: 0.8em;
+        }
     }
     
     @include breakpoint($medium) {
+
+        a {
+            font-size: 1.15em;
+        }
+
+        p {
+            margin-bottom: 0.05em;
+        }
+    
+        li {
+            font-size: 0.95em;
+            margin-bottom: 0.05em;
+        }
+    
+        ul {
+            margin-top: 0.7em;
+            margin-bottom: 0.7em;
+            padding-left: 1.2em;
+        }
+
         .paper-box-image{
             justify-content: left;
             min-width: 200px;
@@ -69,5 +88,5 @@
 
 .depart-header {
     font-size: larger;
-    margin-top: 2em;
+    padding-top: 0.5em;
 }

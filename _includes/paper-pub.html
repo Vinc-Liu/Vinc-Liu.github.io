@@ -26,7 +26,13 @@
 - {{ post.d3 }}
 {% endif %}
 
-[Download paper]({{ post.downloadurl }}){:target="_blank"}
+<div class="download">
+    <a href="{{ post.downloadurl }}" target="_blank">PDF</a>
+    {% if post.video %}
+        <a href="{{ post.video }}" target="_blank">Video</a>
+    {% endif %}
+</div>
+
 
 </div>
 </div>
