@@ -16,9 +16,15 @@
 [{{ post.title }}]({{ post.paperurl }}){:target="_blank"} \\
 **{{ post.author }}**, {{ post.authors }}
 
+{% if post.d1 %}
 - {{ post.d1 }}
+{% endif %}
+{% if post.d2 %}
 - {{ post.d2 }}
+{% endif %}
+{% if post.d3 %}
 - {{ post.d3 }}
+{% endif %}
 
 [Download paper]({{ post.downloadurl }}){:target="_blank"}
 
