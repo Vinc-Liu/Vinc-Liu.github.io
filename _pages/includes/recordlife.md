@@ -1,3 +1,4 @@
-# 🔥 News
-- *2024.12*: 🎈 2024TIE is cited by Ian Howard (Curtin University, Australia) and Jichun Xing (Yanshan University, China)
-- *2024.12*: 🎈 2024SNA is cited by Huadong Yu (Jilin University, China)
+- *2025.03*: 🔥 Wanna design a waterstrider-inspired robot.
+- *2025.03*: 🔥 Currently working on a paper about human-inspired piezoelectric actuator.
+- *2025.03*: 🔥 Submitted a patent about non-uniformly distributed electrode.
+- *2025.01*: 🔥 Submitted a paper to TMECH.
